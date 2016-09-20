@@ -90,3 +90,7 @@ function findMagicIndex (array) {
   }
   return magicIndices;
 }
+/* Time complexity Analysis:
+    Worst case time complexity remains unchanged: O(n)
+    However average case complexity has improved to around O(logN)
+*/
